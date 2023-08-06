@@ -77,8 +77,12 @@ The primary objective of CATS is to ensure the optimal conditions for the artwor
   <tr>
     <td><img src="images/webapp.png"></td>
     <td><img src="images/riskanalysis.png"></td>
-    <td><img src="images/phone.png"></td>
+  </tr>
+</table>
 
+<table>
+  <tr>
+    <td><img src="images/phone.png"></td>
   </tr>
 </table>
 
