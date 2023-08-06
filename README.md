@@ -29,6 +29,7 @@
 * [Key Features](#key-features)
 * [How to Use CATS](#how-to-use-cats)
 * [Technology Stack](#technology-stack)
+* [Image Gallery](#image-gallery)
 * [Contributing](#contributing)
 * [Authors](#authors)
 * [Acknowledgements](#acknowledgements)
@@ -80,11 +81,8 @@ The primary objective of CATS is to ensure the optimal conditions for the artwor
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td><img src="images/phone.png"></td>
-  </tr>
-</table>
+ <td><img src="images/phone.png"></td>
+
 
 
 ## Contributing
