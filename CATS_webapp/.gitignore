@@ -1,0 +1,7 @@
+.streamlit
+secrets.toml
+__pycache__
+.cats.io/
+.node_modules/
+README.md
+README.JPG

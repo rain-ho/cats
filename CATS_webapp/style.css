@@ -1,0 +1,115 @@
+.stButton > button {
+  color: #000000;
+  background: #FFAE4C;
+  width: 150px;
+  height: 50px;
+}
+
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.block-container.css-1y4p8pa.egzxvld4 > div:nth-child(1) > div > div:nth-child(8) > div > div:nth-child(5) > div > button {
+  background:#BE3839;
+  color:#FFFFFF; 
+}
+
+input[type=text] {
+  background-color: #FFAE4C;
+}
+input[type=password] {
+  background-color: #FFAE4C;
+}
+
+.custom-textarea textarea {
+  background-color: #FFAE4C;
+}
+
+.LoginTitle{
+  color:  #000000
+}
+
+.css-1t03sxt{
+  background: #FFAE4C;
+}
+
+.descryptBoxArtwork{
+    background-color: #777B7E; /*lava gray */
+    color: #FFFFFF; 
+    font-size: 18px; 
+    padding: 10px; 
+    border-radius: 8px; 
+}
+
+.descryptBoxRiskGREEN
+{
+  background-color: #008057; /*Sporting GREEN   **other green -> 7FFF00** */
+  color: #FFFFFF; 
+  text-align: center;
+  font-size: 50px; 
+  padding: 0px; 
+  border-radius: 0px; 
+}
+
+.descryptBoxRiskRED
+{
+  background-color: #DB1D27; 
+  color: #FFFFFF; 
+  text-align: center;
+  font-size: 50px; 
+  padding: 10px; 
+  border-radius: 8px; 
+}
+
+.descryptBoxRiskYELLOW
+{
+  background-color: #FBE106;
+  color: #FFFFFF; 
+  text-align: center;
+  font-size: 50px; 
+  padding: 10px; 
+  border-radius: 8px; 
+}
+
+.titleMuseumPage{
+  /* background-color: #FFFFFF;  */
+  color: #000000; 
+  font-size: 35px; 
+  padding: 10px; 
+  border-radius: 8px; 
+  font-weight: bolder;
+
+}
+
+/* sidebar styles*/
+#default-sidebar {
+  background-color: #224562;
+  color: #224562;
+  background-image: url(https://mdbootstrap.com/img/Photos/Others/sidenav4.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border:none;
+  }
+
+  .emptyBoxDescrypt{
+
+    color: white;
+    font-size: 60px;
+    background-color: gray;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+  }
+
+  .LoginTitle{
+    text-align: center;
+  }
+  .museumId{
+    font-size: 45px;
+    color: #FFFFFF;
+    font-weight: bold;
+  }
+
+.manageTitles{
+  color: #FFFFFF;
+  font-size: 30px;
+  font-weight: bold;
+  
+}
