@@ -13,11 +13,7 @@
     <a href="https://github.com/rain-ho/cats"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    [View Demo](https://cats-iot23.streamlit.app) 
-    .
-    <a href="https://github.com/rain-ho/cats/issues">Issues</a>
-    .
-    <a href="https://github.com/rain-ho/cats/discussions">Discussions</a>
+    [View Demo](https://cats-iot23.streamlit.app) &bull; [Issues](https://github.com/rain-ho/cats/issues) &bull; [Discussions](https://github.com/rain-ho/cats/discussions)
   </p>
 </p>
 
